@@ -12,9 +12,6 @@
 
 - 📫 How to reach me **chaodhari66@gmail.com**
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=me-cha&show_icons=true&locale=en&layout=compact" alt="me-cha" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=me-cha&show_icons=true&locale=en" alt="me-cha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=me-cha&" alt="me-cha" /></p>
 
