@@ -2,8 +2,6 @@
 <h3 align="center">👋 Hi there! I'm a software developer with a passion for building dynamic and interactive web applications.<br/>
   #softwaredeveloper #webdevelopment #javascript #react #mongodb</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=me-cha" alt="me-cha" /></a> </p>
-
 - 🔭 I’m currently working on [MERN](https://github.com/Me-cha/CPMS)
 
 - 🌱 I’m currently learning **ReactJS,JavaScript**
