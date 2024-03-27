@@ -1,15 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehul Chaodhari</h1>
-<h3 align="center">👋 Hi there! I'm a software developer with a passion for building dynamic and interactive web applications.
-  🔧 Experienced in version control and collaboration using Git and GitHub. 
-  🚀 Proficient in building web apps with React.js and managing state with Redux. 
-  🎨 Skilled in using Figma for UI/UX design, prototyping, and collaboration.
-  💾 Knowledgeable in database management systems, including relational and NoSQL databases. 
-  💪 Strong command over JavaScript for front-end and back-end development. 
-  📦 Experienced in working with MongoDB for storing and managing data. 
-  💻 Expertise in building visually appealing web pages using HTML and CSS. 
-  🎨 Proficient in implementing Material Design components and themes with Material-UI. 
-  📱 Skilled in using Bootstrap framework to create responsive and mobile-first websites. 
-  💨 Familiar with Tailwind CSS for building custom and efficient CSS styles. 
+<h3 align="center">👋 Hi there! I'm a software developer with a passion for building dynamic and interactive web applications.<br/>
   #softwaredeveloper #webdevelopment #javascript #react #mongodb</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=me-cha" alt="me-cha" /></a> </p>
