@@ -46,36 +46,6 @@ I'm a passionate Full Stack Developer from [Your Location]. I love turning ideas
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/YourUsername/)](https://www.instagram.com/YourUsername/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:YourEmail)](mailto:YourEmail)
 
-## 🎧 Spotify Playing
-
-![Spotify](https://novatorem.vercel.app/api/spotify)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Your Blog Post Title](https://yourblog.com/your-post)
-<!-- BLOG-POST-LIST:END -->
-
-## 🎮 Let's Play a Game
-
-You can add a fun game or interactive element here. For example, a snake game that eats your contributions!
-
-![Snake animation](https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg)
-
-## 💬 Random Dev Joke
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-## 🐱‍💻 Hackathons
-
-- **Hackathon Name:** *Project Name* – *Description of the project and your role.*
-- **Hackathon Name:** *Project Name* – *Description of the project and your role.*
-
-## 📚 Certifications
-
-- **Certification Name** – *Issuing Organization* – *Date*
-- **Certification Name** – *Issuing Organization* – *Date*
-
 ## ✍️ Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
