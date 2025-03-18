@@ -9,16 +9,14 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Developer from [Your Location]. I love turning ideas into reality using code. When I'm not coding, you'll find me [Your Hobbies].
+I'm a passionate Full Stack Developer from Nagpur, Maharashtra, India. I love turning ideas into reality using code. When I'm not coding, you'll find me exploring new technologies and contributing to open-source projects.
 
-- 🔭 I’m currently working on **[Your Project](https://github.com/YourUsername/YourProject)**
-- 🌱 I’m currently learning **[Technology You're Learning]**
-- 👯 I’m looking to collaborate on **[Your Collaboration Interests]**
-- 🤔 I’m looking for help with **[Your Assistance Needs]**
-- 💬 Ask me about **[Your Expertise Areas]**
-- 📫 How to reach me: **[Your Email]**
-- 😄 Pronouns: **[Your Pronouns]**
-- ⚡ Fun fact: **[A Fun Fact About You]**
+- 🌱 I’m currently learning **NextJS**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Web Development and Open Source**
+- 📫 How to reach me: **chaodhari66@gmail.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I enjoy solving complex coding challenges in my free time.**
 
 ## 🛠️ Tech Stack
 
@@ -41,10 +39,9 @@ I'm a passionate Full Stack Developer from [Your Location]. I love turning ideas
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/YourUsername/)](https://www.linkedin.com/in/YourUsername/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/YourUsername)](https://twitter.com/YourUsername)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/YourUsername/)](https://www.instagram.com/YourUsername/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:YourEmail)](mailto:YourEmail)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mehul-chaodhari-13874b24a/)](https://www.linkedin.com/in/mehul-chaodhari-13874b24a/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://x.com/ChaodhariM48945)](https://x.com/ChaodhariM48945)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:chaodhari66@gmail.com)](mailto:chaodhari66@gmail.com)
 
 ## ✍️ Random Dev Quote
 
