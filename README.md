@@ -29,9 +29,9 @@ I'm a passionate Full Stack Developer from Nagpur, Maharashtra, India. I love tu
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Me-cha&show_icons=true&hide_border=true&theme=dark" width="49.5%" height="100%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Me-cha&layout=compact&hide_border=true&theme=dark" width="49.5%" height="100%"/>
+<p align="center" height="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Me-cha&show_icons=true&hide_border=true&theme=dark" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Me-cha&layout=compact&hide_border=true&theme=dark" width="49.5%" />
 </p>
 
 ## 🏆 GitHub Trophies
