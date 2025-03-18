@@ -35,7 +35,7 @@ I'm a passionate Full Stack Developer from Nagpur, Maharashtra, India. I love tu
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=onedark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Me-cha&theme=onedark)
 
 ## 📫 Connect with Me
 
