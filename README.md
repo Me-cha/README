@@ -5,7 +5,7 @@
 
 # Hey there, I'm Mehul Chaodhari 👋
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=Me-cha&color=blue)
 
 ## 🚀 About Me
 
@@ -47,6 +47,3 @@ I'm a passionate Full Stack Developer from Nagpur, Maharashtra, India. I love tu
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## 🎨 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
