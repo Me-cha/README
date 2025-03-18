@@ -31,7 +31,7 @@ I'm a passionate Full Stack Developer from Nagpur, Maharashtra, India. I love tu
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Me-cha&show_icons=true&hide_border=true&theme=dark" width="49.5%" align="top" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Me-cha&layout=compact&hide_border=true&theme=dark" width="49.5%" align="top" max-height="90%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Me-cha&layout=compact&hide_border=true&theme=dark" width="49.5%" align="top" />
 </p>
 
 
