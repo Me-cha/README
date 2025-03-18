@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-# Hey there, I'm [Your Name] 👋
+# Hey there, I'm Mehul Chaodhari 👋
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
 
@@ -29,9 +29,9 @@ I'm a passionate Full Stack Developer from Nagpur, Maharashtra, India. I love tu
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_border=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Me-cha&show_icons=true&hide_border=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&hide_border=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Me-cha&layout=compact&hide_border=true&theme=dark)
 
 ## 🏆 GitHub Trophies
 
