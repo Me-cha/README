@@ -1,8 +1,7 @@
-<!--
-**YourUsername/YourUsername** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-![Header](https://your-image-url.com/header.png)
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 # Hey there, I'm [Your Name] 👋
 
@@ -84,4 +83,3 @@ You can add a fun game or interactive element here. For example, a snake game th
 ## 🎨 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
-
